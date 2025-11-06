@@ -1,11 +1,9 @@
 # CoTD-PO: Chain-of-Thought Distillation with Preference Optimization
 
-**CoTD-PO** CoTD-PO is a new framework that integrates Chain-of-Thought Distillation (CoTD) with Preference Optimization (PO). It is designed to overcome major limitations of traditional CoT distillation on open-ended generation tasks, including distribution mismatch, performance degradation, and mode collapse.
+**CoTD-PO** is a new framework that integrates Chain-of-Thought Distillation (CoTD) with Preference Optimization (PO). It is designed to overcome major limitations of traditional CoT distillation on open-ended generation tasks, including distribution mismatch, performance degradation, and mode collapse.
 
 
-<p align="center">
-  <img src="[assets/cotdpo_framework.png](https://github.com/user-attachments/files/23396663/cotdpo11.pdf)" width="70%">
-</p>
+![CoTD-PO Framework](a.png)
 
 ## ✨ Key Features
 
